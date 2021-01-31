@@ -1,0 +1,9 @@
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\bin\Debug\sitedencek.exe
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\bin\Debug\sitedencek.pdb
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\obj\Debug\sitedencek.csprojAssemblyReference.cache
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\obj\Debug\sitedencek.Form1.resources
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\obj\Debug\sitedencek.Properties.Resources.resources
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\obj\Debug\sitedencek.csproj.GenerateResource.cache
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\obj\Debug\sitedencek.csproj.CoreCompileInputs.cache
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\obj\Debug\sitedencek.exe
+C:\Users\adziz\Documents\Visual Studio 2017\Projects\sitedencek\sitedencek\obj\Debug\sitedencek.pdb
